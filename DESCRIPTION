@@ -14,12 +14,12 @@ LazyData: true
 RoxygenNote: 7.2.0
 Imports:
   raster,
-  rgrass7,
   rgdal,
   igraph,
   methods,
   utils
 Suggests: 
+    rgrass7,
     knitr,
     rmarkdown,
     testthat (>= 2.1.0),
